@@ -2,7 +2,6 @@
 // @name         ISTU Moodle Theme
 // @namespace    http://tampermonkey.net/
 // @version      0.3
-// @description  Предложения/идеи можете присылать сюда: https://vk.com/dreamcutter
 // @author       DreamCutter
 // @match        https://el.istu.edu/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=istu.edu
